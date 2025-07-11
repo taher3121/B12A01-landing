@@ -165,9 +165,12 @@ main{
 .r-pic{
     border-radius: 50px;
 }
-r.name{
+.r-name{
     color: #757575;
+    margin: 0px;
+    padding: 2px;
 }
 .r-date{
     color: #B3B3B3;
+    margin: 0px;
 }
