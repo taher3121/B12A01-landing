@@ -69,10 +69,18 @@ header{
     
     
 }
+
+/* main style */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* action */
 .action{
     display: flex;
     justify-content: space-around;
-    padding: 100px;
+    margin-top: 116px;
 }
 .action-head{
     font-size:49px;
@@ -87,17 +95,23 @@ header{
 
 /* vai kaj kore na */
 .action-pic{
-    border-radius: 10px;
+    border-radius: 20px;
 }
+
 
 /* users */
 .users{
-    align-items: center;
-    margin-bottom: 100px;
+    border-radius: 24px;
+    padding: 50px 142px;
+    text-align: center;
+    background-color:#E5E7FF ;
+    margin-top: 130px;
+    
+    
 }
 .users-head{
     color: #252432;
-    font-size: 38px;
+    font-size: 32px;
     font-weight: bold;
     text-align: center;
     
@@ -105,7 +119,6 @@ header{
 .users-elements{
     display: flex;
     justify-content: space-around;
-    padding: 0px 410px;
     
 }
 
