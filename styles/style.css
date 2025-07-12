@@ -276,3 +276,16 @@ section textarea{
     gap: 80px;
     color: #8987A1;
 }
+
+/* button hover */
+
+.nav-btn:hover{
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+}
+.get-btn:hover{
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+}
