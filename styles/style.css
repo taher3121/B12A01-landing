@@ -249,3 +249,30 @@ section textarea{
 .m-margin{
     margin: 3px;
 }
+
+/* footer */
+
+.foot{
+    padding: 150px 600px;
+    text-align: center;
+    background-color: white;
+    margin-top: 14px;
+}
+
+.foot-head{
+    color: #4E47FF;
+    font-weight:800;
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+.foot-text{
+    font-weight: normal;
+    font-size:21px ;
+    color: #8987A1;
+}
+.foot-items{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    color: #8987A1;
+}
